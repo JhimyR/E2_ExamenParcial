@@ -13,7 +13,13 @@
 - Anaconda(Jupyterlab)
 - Githud
 - Git bash
+- NCBI(Nucleotide,Genbak,fasta
 ### Paquetes utilizados
-
-
+- !pip install biopython
+- !pip install reportlab
+- !pip install nglview
+- !pip install pandas
+- !pip install matplotlib
+### Paquetes importados en el Jupyter
+- Entrez, SeqI0, csv, re, counter, Bio.Seq, Bio. 
 ## Explicación de la data utilizada
